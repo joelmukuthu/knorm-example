@@ -30,7 +30,7 @@
   "homepage": "https://github.com/knorm/example#readme",
   "devDependencies": {
     "eslint": "6.8.0",
-    "eslint-config-ganintegrity": "4.0.2",
+    "eslint-config-ganintegrity": "5.0.0",
     "prettier": "1.19.1"
   },
   "dependencies": {
